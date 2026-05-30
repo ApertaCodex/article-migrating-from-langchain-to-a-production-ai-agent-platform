@@ -318,19 +318,3 @@ The move requires careful planning, phased execution, and attention to behaviora
 Your future self will thank you for making the switch before you hit scale-induced crises. The platform investment pays dividends in reduced incident response time, better security posture, and more efficient developer workflows.
 
 Ready to move from experimentation to enterprise-grade agent deployments? [Omnithium](https://omnithium.ai) provides the security, observability, and governance your agents need in production. Explore our [resources](https://omnithium.ai/resources) to learn more.
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/migrating-from-langchain).*
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
